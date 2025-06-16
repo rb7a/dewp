@@ -4,6 +4,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://sage-faloodeh-18d793.netlify.app',
+	site: 'example.com',
 	integrations: [sitemap()],
 });
